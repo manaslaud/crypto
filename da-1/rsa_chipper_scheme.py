@@ -1,7 +1,3 @@
-def gcd(a, b):
- while b:
-     a, b = b, a % b
- return a
 def mod_inverse(e, phi):
  for x in range(1, phi):
      if (e * x) % phi == 1:
