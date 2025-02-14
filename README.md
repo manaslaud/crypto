@@ -1,1 +1,1 @@
-I like playing around w python's crypo libs.
+I like playing around w python's crypto libs.
